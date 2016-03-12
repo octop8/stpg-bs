@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'roboto';
+	src: url('roboto.ttf');
+}
+
+html {
+	background: url('1420088977711.png') #F7F2E0;
+	background-size: 100%;
+}
+
+#box {
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 300;
+	left: 0; right: 0;
+
+	width: 400;
+	height: 140;
+
+	border: 2px solid #000;
+
+	opacity: 0.7;
+	background: #fff;
+
+	text-align: center;
+	font-family: 'roboto';
+}
+
+p {
+	line-height: 12px;
+}
