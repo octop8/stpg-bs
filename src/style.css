@@ -26,6 +26,33 @@ html {
 	font-family: 'roboto';
 }
 
+#links {
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0;
+	left: 0; right: 0;
+
+	width: 400;
+	height: 140;
+
+	border: 2px solid #000;
+
+	opacity: 0.7;
+	background: #fff;
+
+	text-align: center;
+	font-family: 'roboto';
+}
+
 p {
 	line-height: 12px;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	text-decoration: underline;
 }
