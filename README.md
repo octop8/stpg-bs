@@ -8,13 +8,13 @@
 
 'tab4' : https://u.pomf.is/ndxuej.zip
 
-'tab 5' : https://u.pomf.is/hpmuem.zip
+'tab5' : https://u.pomf.is/hpmuem.zip
 
-'tab 6' : https://u.pomf.is/sjbubm.zip
+'tab6' : https://u.pomf.is/sjbubm.zip
 
-'tab 7' : https://u.pomf.is/vsalsm.zip
+'tab7' : https://u.pomf.is/vsalsm.zip
 
-'tab 8 ' : https://u.pomf.is/hlwhrb.zip
+'tab8 ' : https://u.pomf.is/hlwhrb.zip
 
 # other information~
 
