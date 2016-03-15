@@ -16,7 +16,9 @@
 
 'tab8 ' : https://u.pomf.is/hlwhrb.zip
 
-'tab8' : https://u.pomf.is/brwdml.zip
+'tab9' : https://u.pomf.is/brwdml.zip
+
+'tab10' : https://u.pomf.is/zkhbnk.zip
 
 # other information~
 
