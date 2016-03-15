@@ -25,3 +25,5 @@
 'tab5' is based on 'start page 2' by tayumpee https://github.com/tayumpee/start_page2_firefox_and_chrome as was a trend in /stpg/ for a while after it was posted. 'tab7' is also based on this.
 
 ~~'tab6' only works correctly on screen resolutions bigger than 1366x768, i'll fix this eventually.~~ this has been sort of fixed. removed one box, shrunk length of searchbar. it can be easily changed manually if that suits your needs.
+
+no tabs are added in order of creation. i have tab pages from years ago that i might upload. 'tab9' being my most recent, 'tab2' being from about a year ago.
