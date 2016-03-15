@@ -28,7 +28,7 @@ function search(query){
  
 window.onload = function(){
     // search
-    searchinput = document.getElementById("search");
+    searchinput = document.getElementById("searchbar");
     if(!!searchinput){
         searchinput.addEventListener("keypress", function(a){
             var key = a.keyCode;
