@@ -29,3 +29,5 @@
 ~~'tab6' only works correctly on screen resolutions bigger than 1366x768, i'll fix this eventually.~~ this has been sort of fixed. removed one box, shrunk length of searchbar. it can be easily changed manually if that suits your needs.
 
 no tabs are added in order of creation. i have tab pages from years ago that i might upload. 'tab9' being my most recent, 'tab2' being from about a year ago.
+
+'some_bullshit' is unfinished. don't bother with it just yet.
