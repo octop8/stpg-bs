@@ -31,4 +31,4 @@
 no tabs are added in order of creation. i have tab pages from years ago that i might upload. 'tab9' being my most recent, 'tab2' being from about a year ago.
 
 'some_bullshit' is unfinished. don't bother with it just yet. it is based off of: https://github.com/Usuka/Homepage
-however, all the code is my own. i somehow managed to coincidentally share a lot of the same code with it. (some heights, widths, and colours, however are from that pages code). i just thought the colours were nice.
+however, all the code is my own. i somehow managed to coincidentally share a lot of the same code with it. (some heights, widths, ~~and colours~~, however are from that pages code). i just thought the colours were nice.

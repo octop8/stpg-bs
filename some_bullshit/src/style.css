@@ -50,7 +50,7 @@ html {
 	position: absolute;
 	margin: auto;
 	left: 0; right: 0;
-	background: #452e22;
+	background: #223945;
 	opacity: 0.4;
 	z-index: 1;
 }
@@ -91,7 +91,7 @@ html {
 	left: 0; right: 0;
 	text-align: center;
 	font-size: 16;
-	background: #452e22;
+	background: #223945;
 	opacity: 1;
 	height: 50; width: 120;
 	z-index: 2;
@@ -103,7 +103,7 @@ html {
 	top: 100;
 	left: 0; right: 0;
 	width: 400; height: 50;
-	background: #452e22;
+	background: #223945;
 }
 
 #search {
@@ -112,7 +112,7 @@ html {
 	top: 0; bottom: 0;
 	left: 0; right: 0;
 	width: 300; height: 30;
-	background: #57434c;
+	background: #574343;
 	border: 0;
 	box-shadow: 3px 3px 3px #170f0d;
 	font-family: 'monte'; font-size: 16;
