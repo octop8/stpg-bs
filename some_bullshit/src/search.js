@@ -16,36 +16,29 @@ function search(query){
     switch(query.substr(0, 2)){
         case "~i":
             query = query.substr(3);
-            window.location = "https://www.google.nl/search?tbm=isch&q=" +
-                query.replaceChars(" ", "+");
-            break;
-
-        case "-y":
-            query = query.substr(3);
-            window.location =
-                "https://www.youtube.com/results?search_query=" +
-                query.replaceChars(" ", "+");
-            break;
-
-        case "-w":
-            query = query.substr(3);
-            window.location =
-                "https://en.wikipedia.org/w/index.php?search=" +
+            window.location = "https://www.google.com/search?tbm=isch&q=" +
                 query.replaceChars(" ", "%20");
             break;
 
-    case "-m":
-        query = query.substr(3);
-        window.location = 
-        "http://www.wolframalpha.com/input/?i=" + 
-        query.replaceChars("+", "%2B");
-        break;
+        case "~y":
+            query = query.substr(3);
+            window.location =
+                "https://www.youtube.com/results?search_query=" +
+                query.replaceChars(" ", "%20");
+            break;
 
-    case "-h":
+        case "~t":
+            query = query.substr(3);
+            window.location =
+                "https://thepiratebay.se/search/" +
+                query.replaceChars(" ", "%20");
+            break;
+
+    case "~n":
         query=query.substr(3);
         window.location = 
-            "http://alpha.wallhaven.cc/search?q=" + 
-            query.concat("&categories=111&purity=100&resolutions=1920x1080&sorting=relevance&order=desc");
+            "https://nyaa.se/?page=search&cats=0_0&filter=0&term=" + 
+            query.replaceChars(" ", "%20");
             break;
 
         default:
