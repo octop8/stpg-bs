@@ -9,7 +9,7 @@ html {
 	color: #FBF8EF;
 }
 
-#parent {
+#spine {
 	position: absolute;
 	margin: auto;
 	top: 0; bottom: 0;
@@ -19,20 +19,29 @@ html {
 	box-shadow: 5px 5px 5px #170f0d;
 }
 
+#parent {
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0;
+	left: 0; right: 0;
+	width: 600; height: 600;
+	background: ;
+}
+
 #one {
-	top: 230;
+	top: 200;
 }
 
 #two {
-	top: 330;
+	top: 300;
 }
 
 #three {
-	top: 430;
+	top: 400;
 }
 
 #four {
-	top: 530;
+	top: 500;
 }
 
 .link {
@@ -91,7 +100,7 @@ html {
 #searchcontainer {
 	position: absolute;
 	margin: auto;
-	top: 130;
+	top: 100;
 	left: 0; right: 0;
 	width: 400; height: 50;
 	background: #452e22;
