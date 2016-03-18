@@ -30,7 +30,7 @@
 
 ~~'tab6' only works correctly on screen resolutions bigger than 1366x768, i'll fix this eventually.~~ this has been sort of fixed. removed one box, shrunk length of searchbar. it can be easily changed manually if that suits your needs.
 
-no tabs are added in order of creation. i have tab pages from years ago that i might upload. 'tab9' being my most recent, 'tab2' being from about a year ago.
+no tabs are added in order of creation. i have tab pages from years ago that i might upload. 'tab1' being my most recent, 'tab2' being from about a year ago.
 
 'some_bullshit' is unfinished. don't bother with it just yet. it is based off of: https://github.com/Usuka/Homepage
 however, all the code is my own. i somehow managed to coincidentally share a lot of the same code with it. (some heights, widths, ~~and colours~~, however are from that pages code). i just thought the colours were nice.
