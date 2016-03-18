@@ -20,6 +20,8 @@
 
 'tab10' : https://u.pomf.is/zkhbnk.zip
 
+'some_bullshit' :  https://u.pomf.is/xlebrr.zip (please note: if the length of link names are too long, it will break. try and balance links out for it to work)
+
 # other information~
 
 'tab2' only works on 1920x1080 and higher. 1440x900 may work, i've not been able to try it.
