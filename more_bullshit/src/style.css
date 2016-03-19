@@ -1,0 +1,101 @@
+@font-face {
+	font-family: 'monte';
+	src: url('montecarlo.ttf');
+}
+
+html {
+	background: url('1456802953579.jpg');
+	background-size: 100%;
+	font-family: 'monte';
+}
+
+#main {
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0;
+	left: 0;
+
+	width: 160; height: 320;
+
+}
+
+#one {
+	top: 40;
+}
+
+#two {
+	top: 80;
+}
+
+#three {
+	top: 120;
+}
+
+#four {
+	top: 160;
+}
+
+#five {
+	top: 200;
+}
+
+#six {
+	top: 240;
+}
+
+.link {
+	position: absolute;
+	margin: auto;
+	left: 160;
+
+	width: 0;
+	height: 40;
+
+	background: #fff;
+
+	transition: 0.5s ease;
+
+	opacity: 0.5;
+
+}
+
+.link:hover {
+	width: 300;
+	opacity: 0.8;
+}
+
+.title {
+	position: absolute;
+	left: -160;
+	font-size: 16px;
+	margin-top: 0;
+	width: 160; height: 40;
+	z-index: 1;
+	background: #fff;
+	text-align: center;
+}
+.name {
+	margin-top: 14;
+}
+
+.link a {
+	display: none;
+	padding: 12px;
+	padding-top: 0;
+	color: #000;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.link:hover a {
+	display: inline;
+}
+
+.right {
+	position: absolute;
+	right: 10; left: 0; top: 14;
+	text-align: right;
+	width: ;
+	white-space: nowrap;
+	overflow: hidden;
+}
