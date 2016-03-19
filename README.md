@@ -20,7 +20,7 @@
 
 'tab10' : https://u.pomf.is/zkhbnk.zip
 
-'some_bullshit' :  https://u.pomf.is/xlebrr.zip (please note: if the length of link names are too long, it will break. try and balance links out for it to work)
+'some_bullshit' :  https://u.pomf.is/tbzckw.zip (please note: if the length of link names are too long, it will break. try and balance links out for it to work)
 
 # other information~
 
