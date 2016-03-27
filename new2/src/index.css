@@ -1,0 +1,184 @@
+html {
+	background: url('1456806421994.png');
+	background-size: 100%;
+}
+
+#main {
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0;
+	left: 0; right: 0;
+	height: 650; width: 1300;
+	background: ;
+}
+
+#one {
+	position: absolute;
+	top: 10;
+	left: 10;
+	height: 150;
+	width: 310;
+	background:  url('transport.png') #000 no-repeat;
+	background-size: 90%;
+	background-position: center bottom;
+	opacity: 0.7;
+}
+
+#two {
+	position: absolute;
+	top: 170;
+	left: 10;
+	height: 150;
+	width: 150;
+	background:  url('4chan.png') #000;
+	background-size: 100%;
+	opacity: 0.7;
+}
+
+#three {
+	position: absolute;
+	top: 170;
+	left: 170;
+	height: 150;
+	width: 150;
+	background:  url('piratebay.png') #000 no-repeat;
+	background-size: 90%;
+	background-position: center bottom;
+	opacity: 0.7;
+}
+
+#four {
+	position: absolute;
+	top: 330;
+	left: 10;
+	height: 150;
+	width: 150;
+	background:  url('video.png') #000 no-repeat;
+	background-size: 90%;
+	background-position: center;
+	opacity: 0.7;
+}
+
+#five {
+	position: absolute;
+	top: 490;
+	left: 10;
+	height: 150;
+	width: 310;
+	background: url('mathematics.png') #000 no-repeat;
+	background-size: 90%;
+	background-position: center;
+	opacity: 0.7;
+}
+
+#six {
+	position: absolute;
+	top: 10;
+	right: 10;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#seven {
+	position: absolute;
+	top: 10;
+	right: 170;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#eight {
+	position: absolute;
+	top: 170;
+	right: 170;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#fourteen {
+	position: absolute;
+	top: 330;
+	right: 10	;
+	height: 150;
+	width: 310;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#fifteen {
+	position: absolute;
+	top: 490;
+	right: 170;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#sixteen {
+	position: absolute;
+	top: 490;
+	right: 10;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#nine {
+	position: absolute;
+	top: 10;
+	left: 655;
+	height: 150;
+	width: 150;
+	background:  url('facebook.png') #000 no-repeat;
+	background-size: 90%;
+	background-position: center;
+	opacity: 0.7;
+}
+
+#ten {
+	position: absolute;
+	top: 10;
+	right: 655;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#eleven {
+	position: absolute;
+	top: 170;
+	right: 655;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#twelve {
+	position: absolute;
+	top: 330;
+	left: 655;
+	height: 150;
+	width: 150;
+	background:  #000;
+	opacity: 0.7;
+}
+
+#thirteen {
+	position: absolute;
+	top: 490;
+	left: 495;
+	height: 150;
+	width: 310;
+	background:  #000;
+	opacity: 0.7;
+}
