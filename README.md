@@ -34,3 +34,5 @@ no tabs are added in order of creation. i have tab pages from years ago that i m
 
 'some_bullshit' is unfinished. don't bother with it just yet. it is based off of: https://github.com/Usuka/Homepage
 however, all the code is my own. i somehow managed to coincidentally share a lot of the same code with it. (some heights, widths, ~~and colours~~, however are from that pages code). i just thought the colours were nice.
+
+'new2' is very unfinished. i'll finish it eventually. works best on 1920x1080, don't use on anything lower than 1440x900.
