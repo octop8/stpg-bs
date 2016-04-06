@@ -4,46 +4,60 @@
 }
 
 html {
-	background: url('1420088977711.png') #F7F2E0;
+	background: #7ea8a0;
 	background-size: 100%;
 }
 
 #box {
 	position: absolute;
 	margin: auto;
-	top: 0; bottom: 300;
+	top: 0; bottom: 0;
 	left: 0; right: 0;
 
-	width: 400;
-	height: 140;
+	width: 1440;
+	height: 900;
 
-	border: 2px solid #000;
 
-	opacity: 0.7;
-	background: #fff;
+	opacity: 1;
 
 	text-align: center;
 	font-family: 'roboto';
 }
 
-#links {
+#gap {
+	height: 200;
+}
+
+#screenboxmain {
 	position: absolute;
 	margin: auto;
-	top: 0; bottom: 0;
+	top: 250; bottom: 0;
 	left: 0; right: 0;
 
-	width: 400;
-	height: 140;
+	width: 1440;
+	height: 900;
 
-	border: 2px solid #000;
-
-	opacity: 0.7;
-	background: #fff;
+	opacity: 1;
 
 	text-align: center;
 	font-family: 'roboto';
+}
 
-	line-height: 50px;
+.screenbox {
+	width: 256;
+	height: 144;
+	background: #000;
+	display: inline-block;
+	position: relative;
+	opacity: 0.7;
+
+	border: #000 2px solid;
+
+	transition: 0.3s ease;
+}
+
+.screenbox:hover {
+	opacity: 1;
 }
 
 p {
@@ -57,4 +71,8 @@ a {
 
 a:hover {
 	text-decoration: underline;
+}
+
+figure {
+	display: inline-block;
 }
