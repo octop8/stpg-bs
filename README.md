@@ -22,6 +22,8 @@
 
 'some_bullshit' :  https://u.pomf.is/tbzckw.zip (please note: if the length of link names are too long, it will break. try and balance links out for it to work)
 
+'fuck_this' : https://u.pomf.is/bdkhem.zip ('notes' section is ready from 'notes.txt', uses html tags, <br> for new line)
+
 # other information~
 
 'tab2' only works on 1920x1080 and higher. 1440x900 may work, i've not been able to try it.
@@ -36,3 +38,7 @@ no tabs are added in order of creation. i have tab pages from years ago that i m
 however, all the code is my own. i somehow managed to coincidentally share a lot of the same code with it. (some heights, widths, ~~and colours~~, however are from that pages code). i just thought the colours were nice.
 
 'new2' is very unfinished. i'll finish it eventually. works best on 1920x1080, don't use on anything lower than 1440x900.
+
+
+
+(i have a fantasic naming scheme)
