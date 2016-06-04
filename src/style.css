@@ -29,9 +29,9 @@ html {
 }
 
 #screenboxmain {
-	position: absolute;
+	position: relative;
 	margin: auto;
-	top: 250; bottom: 0;
+	top: 200; bottom: 0;
 	left: 0; right: 0;
 
 	width: 100%;
