@@ -24,6 +24,8 @@
 
 'fuck_this' : https://u.pomf.is/bdkhem.zip ('notes' section is ready from 'notes.txt', uses html tags, <br> for new line)
 
+'fuck_this_v2' : https://u.pomf.is/aixqix.zip (click the green bar to change between links and notes. the links are handled externally, as is notes)
+
 # other information~
 
 'tab2' only works on 1920x1080 and higher. 1440x900 may work, i've not been able to try it.
