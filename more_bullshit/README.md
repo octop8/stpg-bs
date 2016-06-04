@@ -1,3 +1,3 @@
-#not finished, pls ignore
+unfinsished, didn't know how to finish it.
 
-this is mostly just me messing around with transitions, and resizing divs with other divs.
+works, though.
