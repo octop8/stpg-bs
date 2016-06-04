@@ -1,6 +1,6 @@
 # downloads~
 
-'tab' : https://u.pomf.is/wafeyx.zip
+'tab' : https://u.pomf.is/nbctkv.zip
 
 'tab2' : https://u.pomf.is/evssob.zip
 
