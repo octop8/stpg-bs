@@ -1,7 +1,7 @@
 #parent {
 	position: absolute;
 	margin: auto;
-	top: 0; bottom: 190;
+	top: 0; bottom: 90;
 	left: 0;
 	height: 500px;
 	width: 410px;
@@ -69,14 +69,14 @@
 .title {
 	color: #FFF;
 	text-align: center;
-	padding-top: 22px;
+	padding-top: 0px;
 	margin: auto;
 	width: 90px;
 }
 
 .sub {
 	padding-left: 12px;
-	padding-top: 12px;
+	padding-top: 0px;
 	color: #848484;
 }
 
