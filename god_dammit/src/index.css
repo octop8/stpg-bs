@@ -18,7 +18,7 @@ html {
 #main {
 	width: 650px;
 	height: 270px;
-	background: none;
+	background: rgba(239, 251, 251, 1);
 
 	position: absolute;
 	margin: auto;
@@ -34,7 +34,7 @@ ul {
 	margin-top: 12;
 
 	margin-bottom: 10;
-	color: #A9BCF5;
+	color: #ffcc99;
 }
 
 li {
@@ -54,18 +54,19 @@ a:hover {
 }
 
 #search {
-	height: 40px;
-	width: 626px;
-	background: #E6E6E6;
+	height: 38px;
+	width: 624px;
+	background: #ffcc99;
 
 	position: absolute;
 	margin: auto;
 	top: 12;
 	left: 0; right: 0;
 	border: 0;
-	color: #A9BCF5;
+	color: rgba(239, 251, 251, 1);
 	font-size: 22px;
 	font-family: 'roboto';
+
 }
 
 #linkcontainer {
