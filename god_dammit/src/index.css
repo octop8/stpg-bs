@@ -18,7 +18,7 @@ html {
 #main {
 	width: 650px;
 	height: 270px;
-	background: rgba(239, 251, 251, 1);
+	background: none;
 
 	position: absolute;
 	margin: auto;
