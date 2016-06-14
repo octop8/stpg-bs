@@ -3,6 +3,10 @@
 	src: url('roboto.ttf');
 }
 
+* {
+	outline: none;
+}
+
 html {
 	background: #7ea8a0;
 	background-size: 100%;
