@@ -1,76 +1,76 @@
-@font-face {
-	font-family: 'haxr';
-	src: url('haxrcorpttf.ttf');
-}
+<html>
+	<head>
+	<title>new tab</title>
+	<link rel='stylesheet' href='src/index.css' />
+	<script src='src/js/search.js'></script>
+	<script type="text/javascript" src='src/js/jquery-2.2.4.min.js'></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+		$('#text').load('src/notes.xml');
+		});
+	</script>
+	</head>
+	<body>
+		<div id='main'>
+			<ul>daily
+				<br>
+				<li>&lfloor;</li>
+				<li><a href='http://youtube.com'>youtube</a></li>
+				<li><a href='http://reddit.com/r/paydaytheheist'>pdth</a></li>
+				<li><a href='http://mail.google.com'>gmail</a></li>
+				<li><a href='http://forums.lastbullet.net'>lb</a></li>
+				<li><a href='http://forums.blackmesasource.com'>bmcf</a></li>
+				<li><a href='http://github.com'>github</a></li>
+			</ul>
+			<ul>4chan
+				<br>
+				<li>&lfloor;</li>
+				<li><a href='http://boards.4chan.org/wg/catalog'>/wg/</a></li>
+				<li><a href='http://boards.4chan.org/w/catalog'>/w/</a></li>
+				<li><a href='http://boards.4chan.org/vg/catalog'>/vg/</a></li>
+				<li><a href='http://boards.4chan.org/e/catalog'>/e/</a></li>
+				<li><a href='http://boards.4chan.org/g/catalog'>/g/</a></li>
+			</ul>
+			<ul>8chan
+				<br>
+				<li>&lfloor;</li>
+				<li><a href='#'>/wg/</a></li>
+				<li><a href='#'>/w/</a></li>
+				<li><a href='#'>/osu/</a></li>
+				<li><a href='#'>/tech/</a></li>
+			</ul>
+			<ul>every other day
+				<br>
+				<li>&lfloor;</li>
+				<li><a href='http://oclearningteam.net'>oclt</a></li>
+				<li><a href='http://rossmoyneshs.wa.edu.au/'>school</a></li>
+				<li><a href='http://kamikal.github.io'>kamikal</a></li>
+				<li><a href='http://facebook.com'>facebook</a></li>
+				<li><a href='http://tumblr.com'>tumblr</a></li>
+				<li><a href='http://reddit.com/r/askreddit'>ar</a></li>
+			</ul>
+		</div>
 
-html {
-	background: #6E6E6E;
-	font-family: 'haxr';
-}
+		<div id='img'>
+			<script type="text/javascript">
+                var imgCount = 8;
+                    var dir = 'src/images/';
+                    var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
+                    var images = new Array
+                        images[1] = "bg1.png",
+                        images[2] = "bg2.jpg",
+                        images[3] = "bg3.png",
+                        images[4] = "bg4.png",
+                        images[5] = "bg5.png",
+                        images[6] = "bg7.png",
+                        images[7] = "bg8.png",
+                        images[8] = "bg9.png",
+                    document.getElementById("img").style.backgroundImage = "url(" + dir + images[randomCount] + ")"; 
+               </script>
+		</div>
 
-#main {
-	position: absolute;
-	margin: auto;
-	top: 0; bottom: 50;
-	left: 0; right: 366;
+		<div id='notes'><p id='text'></p></div>
 
-	height: 216px;
-	width: 356px;
-
-	background: #fff;
-
-	border: 2px solid #000;
-}
-
-#img {
-	position: absolute;
-	margin: auto;
-	top: 0; bottom: 50;
-	left: 366; right: 0;
-
-	height: 216px;
-	width: 356px;
-
-	background: url('ilya13.png');
-	background-size: 100%;
-
-	border: 2px solid #000;
-}
-
-#search {
-	position: absolute;
-	margin: auto;
-	top: 204; bottom: 0;
-	left: 0; right: 0;
-
-	height: 20px;
-	width: 726px;
-
-	background: #fff;
-
-	border: 2px solid #000;
-
-	font-family: 'haxr';
-
-	font-size: 16px;
-}
-
-ul {
-	list-style-type: none;
-	margin-left: -10;
-}
-
-li {
-	display: inline;
-	padding-left: 10px;
-}
-
-a {
-	text-decoration: none;
-	color: black;
-	transition: 0.2s;
-}
-
-a:hover {
-	color: #ffa4c9;
-}
+		<input id='search' placeholder='if you&rsquo;re here, you know what to do~' autofocus='yes'></input>
+	</body>
+</html>
