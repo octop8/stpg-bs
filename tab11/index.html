@@ -2,7 +2,13 @@
 	<head>
 	<title>new tab</title>
 	<link rel='stylesheet' href='src/index.css' />
-	<script src='src/search.js'></script>
+	<script src='src/js/search.js'></script>
+	<script type="text/javascript" src='src/js/jquery-2.2.4.min.js'></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+		$('#text').load('src/notes.xml');
+		});
+	</script>
 	</head>
 	<body>
 		<div id='main'>
@@ -45,8 +51,26 @@
 			</ul>
 		</div>
 
-		<div id='img'></div>
+				<div id='img'>
+			<script type="text/javascript">
+                var imgCount = 8;
+                    var dir = 'src/images/';
+                    var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
+                    var images = new Array
+                        images[1] = "bg1.png",
+                        images[2] = "bg2.jpg",
+                        images[3] = "bg3.png",
+                        images[4] = "bg4.png",
+                        images[5] = "bg5.png",
+                        images[6] = "bg7.png",
+                        images[7] = "bg8.png",
+                        images[8] = "bg9.png",
+                    document.getElementById("img").style.backgroundImage = "url(" + dir + images[randomCount] + ")"; 
+               </script>
+		</div>
 
-		<input id='search' placeholder='if you&rsquo;re here, you know what to do &#9825;' autofocus='yes'></input>
+		<div id='notes'><p id='text'></p></div>
+
+		<input id='search' placeholder='if you&rsquo;re here, you know what to do~' autofocus='yes'></input>
 	</body>
 </html>
