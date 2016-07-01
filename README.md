@@ -28,6 +28,10 @@
 
 'more_bullshit' : https://u.pomf.is/qajtwq.zip (not finished, started ages ago, does work, just nothing special)
 
+'god_dammit' : https://u.pomf.is/ufjrlp.zip
+
+'tab11' : https://u.pomf.is/vujrpo.zip (alt https://u.pomf.is/gwdiiw.zip)
+
 # other information~
 
 'tab3' only works on 1920x1080 and higher. 1440x900 may work, i've not been able to try it.
