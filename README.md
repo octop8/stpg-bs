@@ -37,11 +37,18 @@
 # other information~
 
 SEARCH BOX SYNTAX
+
 ~i is google images
+
 ~y is youtube
+
 ~n is nyaa.se
+
 ~t is torrentz.ey (rip)
+
 ~m is tcgplayer
+
+this applies to pretty much all my pages.
 
 ~~      ~~
 
