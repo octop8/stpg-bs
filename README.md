@@ -36,6 +36,15 @@
 
 # other information~
 
+SEARCH BOX SYNTAX
+~i is google images
+~y is youtube
+~n is nyaa.se
+~t is torrentz.ey (rip)
+~m is tcgplayer
+
+~~      ~~
+
 'tab3' only works on 1920x1080 and higher. 1440x900 may work, i've not been able to try it.
 
 'tab5' is based on 'start page 2' by tayumpee https://github.com/tayumpee/start_page2_firefox_and_chrome as was a trend in /stpg/ for a while after it was posted. 'tab7' is also based on this.
@@ -49,6 +58,6 @@ however, all the code is my own. i somehow managed to coincidentally share a lot
 
 'new2' is very unfinished. i'll finish it eventually. works best on 1920x1080, don't use on anything lower than 1440x900.
 
-
+'tab14' can switch between boxes of links by using num8 and num9. you can have less used links on the second box (id=hidden) or you can use it for 'special' links. search box uses the normal syntax.
 
 (i have a fantasic naming scheme)
