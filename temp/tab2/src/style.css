@@ -1,0 +1,120 @@
+@font-face {
+	font-family: 'haxrcorp';
+	src: url('haxrcorpttf.ttf');
+}
+
+* {
+	outline: none;
+}
+
+html {
+	background: url('1425398874449-2.jpg') no-repeat;
+	background-size: 100%;
+	font-family: 'haxrcorp';
+	font-size: 16px;
+}
+
+#parent {
+	width: 648;
+	height: 418;
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 100;
+	right: 0; left: 0;
+	background: ;
+}
+
+#general {
+	position: absolute;
+	margin: auto;
+	height: 86px;
+	width: 298px;
+	top: 0; bottom: 332;
+	right: 0; left: 350;
+	background: #fff;
+}
+
+#chan {
+	position: absolute;
+	margin: auto;
+	height: 86px;
+	width: 298px;
+	top: 0; bottom: 132;
+	right: 0; left: 350;
+	background: #fff;
+}
+
+#boo {
+	position: absolute;
+	margin: auto;
+	height: 86px;
+	width: 298px;
+	top: 68; bottom: 0;
+	right: 0; left: 350;
+	background: #fff;
+}
+
+#other {
+	position: absolute;
+	margin: auto;
+	height: 86px;
+	width: 298px;
+	top: 268; bottom: 0;
+	right: 0; left: 350;
+	background: #fff;
+}
+
+#google {
+	position: absolute;
+	left: 0; right: 0; top: 400;
+	width: 298; height: 18;
+	font-family: 'haxrcorp', monospace;
+	font-size: 16;
+	border: 0px;
+	padding-left: 6;
+}
+
+#youtube {
+	position: absolute;
+	left: 350; right: 0; top: 400;
+	width: 298; height: 18;
+	font-family: 'haxrcorp', monospace;
+	font-size: 16;
+	border: 0px;
+	padding-left: 6;
+}
+
+li {
+	display: inline;
+	padding-right: 16;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 6;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.title {
+	font-size: 16px;
+	padding: 4;
+	margin-top: 0;
+}
+
+#akise {
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: ;
+	left: 0; right: 350;
+	height: 386;
+	width: 298;
+}

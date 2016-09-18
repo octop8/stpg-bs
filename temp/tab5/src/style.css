@@ -1,0 +1,107 @@
+@font-face {
+	font-family: 'haxr';
+	src: url('haxrcorpttf.ttf');
+}
+
+html {
+	background: url('1422075681682-0.jpg');
+	background-size: 100%;
+	font-family: 'haxr';
+}
+
+#main {
+	position: absolute;
+	width: 600; height: 358;
+	top: 0; right: 0; left: 0; bottom: 0;
+	margin: auto;
+	background: none;
+}
+
+.sidebar {
+	position: absolute;
+	left: 460;
+	background: url('img.jpg');
+	background-size: 400%;
+	background-position: -160 -130;
+	width: 142px; height: 324px;
+	border: 2px solid #000;
+}
+
+#google {
+	position: absolute;
+	left: 0; right: 0; top: 310;
+	width: 224; height: 18;
+	font-family: 'haxr', monospace;
+	font-size: 16;
+	border: 2px solid #000;
+}
+
+#youtube {
+	position: absolute;
+	left: 230; right: 0; top: 310;
+	width: 224; height: 18;
+	font-family: 'haxr', monospace;
+	font-size: 16;
+	border: 2px solid #000;
+}
+
+.mainbox {
+	position: absolute; 
+	width: 450; height: 300;
+	background: white;
+	border: 2px solid #000;
+
+}
+
+.welcome {
+	position: absolute;
+	margin: auto;
+	left: 0; right: 0;
+	top: 60;
+	font-size: 16px;
+	text-align: center;
+}
+
+ul {
+	width:75px;
+	list-style-type:none;
+	float:left;
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:18px;
+	margin-right:18px;
+}
+
+li {
+	text-align:left;
+	padding-left:3px;
+	padding-right:3px;
+	height:16px;
+	line-height:16px;
+}
+
+.links {
+	width:auto;
+	top: 140px;
+	position:relative;
+    display: inline-block;
+}
+
+a {
+	text-decoration:none;
+	font-size:16px;
+	height:12px;
+	line-height:12px;
+	color:#000000;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+.quote {
+	position: absolute;
+	top: 330; right: 0; left: 0; bottom: 0;
+	margin: auto;
+	width: 450;
+}

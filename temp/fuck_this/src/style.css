@@ -1,0 +1,65 @@
+@font-face {
+	font-family: 'haxr';
+	src: url('haxrcorpttf.ttf');
+}
+
+
+html {
+	background: url('1455139753953.jpg');
+	background-size: 100%;
+	font-family: 'haxr';
+}
+
+#boxone  {
+	width: 300;
+	height: 600;
+
+	background: white;
+
+	position: absolute;
+	margin: auto;
+
+	top: 0; bottom: 0;
+	left: 100;
+
+	box-shadow: 2px 2px 2px #888888;
+
+	border-top: 60px solid #BCF5A9;
+}
+
+.boxtitle {
+	margin-top: -40px;
+	margin-left: 12px;
+}
+
+#text {
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+ul {
+	list-style-type: none;
+	margin-left: -40px;
+}
+
+li {
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#search {
+	width: 410px;
+	border: 0px; border-left: solid #F5F6CE 10px;
+	margin: 0 auto;
+	display: block;
+	height: 35px;
+	font-family: 'haxr'; font-size: 16px;
+	padding-left: 14px;
+	transition: .2s;
+
+	box-shadow: 2px 2px 2px #888888;
+}
