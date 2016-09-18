@@ -8,7 +8,7 @@
 }
 
 body {
-	background: #7ea8a0;
+	background: url('images/1457252998804.jpg') #7ea8a0;
 	background-size: 100%;
 }
 
@@ -31,28 +31,36 @@ body {
 	position: absolute;
 	background-size: 100%;
 	margin: auto;
-	top: 0; bottom: 40px;
-	left: 0; right: 0;
+	top: 0; bottom: 0px;
+	right: 40px;
 
-	height: 405px;
-	width: 720px;
+	height: 70%;
+	width: 70%;
+
+	max-width: 1280px;
+	max-height: 720px;
+
+	background: url('images/fullsize/tab.png');
+	background-size: 100%;
+
+	box-shadow: #000 2px 2px 2px;
 }
 
 #screenboxmain {
 	position: absolute;
 	margin: auto;
-	top: 740; bottom: 0;
-	left: 0; right: 0;
+	top: 0; bottom: 0;
+	left: 40;
 
-	width: 1360px;
-	height: 202px;
+	width: 260;
+	height: 70%;
 
 	opacity: 1;
 
 	text-align: center;
 	font-family: 'roboto';
 
-	overflow-y: scroll;
+	overflow-x: scroll;
 	white-space: nowrap;
 }
 
@@ -80,6 +88,7 @@ p {
 a {
 	text-decoration: none;
 	color: #585858;
+	opacity: 1;
 }
 
 a:hover {
@@ -88,10 +97,4 @@ a:hover {
 
 figure {
 	display: inline-block;
-}
-
-div {
-	display: inline-block;
-	padding-left: 6px;
-	padding-right: 6px;
 }
