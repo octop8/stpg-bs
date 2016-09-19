@@ -1,0 +1,109 @@
+@font-face {
+	font-family: 'main';
+	src: url('roboto.ttf');
+}
+
+* {
+	outline: none;
+}
+
+html {
+	background: url('md_sitebg.jpg') no-repeat;
+	background-size: 100%;
+	font-family: 'main';
+	font-size: 16px;
+}
+
+#parent {
+	width: 298;
+	height: 470;
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0;
+	right: 0; left: 0;
+}
+
+#general {
+	position: relative;
+	margin: auto;
+}
+
+#chan {
+	position: relative;
+	margin: auto;
+	bottom: 0px;
+}
+
+#test {
+	position: relative;
+	margin: auto;
+}
+
+#two {
+	position: relative;
+	margin: auto;
+}
+
+.title {
+	position: absolute;
+	font-size: 16px;
+	margin-top: 0;
+	width: 298; height: 40;
+	z-index: 1;
+	background: #fff;
+	text-align: center;
+}
+
+.name {
+	margin-top: 10;
+}
+
+.link {
+	position: absolute;
+	margin: auto;
+
+	width: 298;
+	height: 40;
+
+	background: #fff;
+	opacity: 0.5;
+
+	transition: 0.5s ease;
+}
+
+.link a {
+	display: none;
+	padding: 12px;
+	padding-top: 12;
+	color: #000;
+	font-size: 16px;
+	text-decoration: none;
+	width: auto;
+	transition: 0.2s ease;
+}
+
+.link:hover {
+	height: 310px;
+	opacity: 0.8;
+}
+
+.link:hover a {
+	display: block;
+}
+
+.dropleft, .dropright {
+	position: absolute;
+	right: 0px; left: 0px; bottom: 0px; top: 40px;
+	text-align: center;
+	height: ;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.dropLeft a:hover {
+	background: #FF4000;
+}
+
+.dropright a:hover {
+	background: #2E64FE;
+}
