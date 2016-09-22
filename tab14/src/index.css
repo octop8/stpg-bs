@@ -67,14 +67,14 @@ body {
 
 #right {
 	height: 420px;
-	width: 340px;
+	width: 300px;
 
 	position: absolute;
 	margin: auto;
 	left: 515;
 
 	background: url('bass.png') no-repeat;
-	background-size: 100%;
+	background-size: 90%;
 
 	border: 3px solid #e6e6e6;
 }
