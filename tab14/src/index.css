@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'main';
-	src: url('Ubuntu-C.ttf');
+	src: url('strasua.ttf');
 }
 
 * {
@@ -71,7 +71,7 @@ body {
 
 	position: absolute;
 	margin: auto;
-	left: 0;
+	left: 600;
 
 	background: url('img031.jpg') no-repeat;
 	background-size: 200%;
