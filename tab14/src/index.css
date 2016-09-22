@@ -71,10 +71,10 @@ body {
 
 	position: absolute;
 	margin: auto;
-	left: 600;
+	left: 500;
 
 	background: url('img031.jpg') no-repeat;
-	background-size: 200%;
+	background-size: 175%;
 
 	border: 3px solid #e6e6e6;
 }
