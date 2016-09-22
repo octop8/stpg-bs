@@ -8,7 +8,7 @@
 }
 
 body {
-	background: #151515;
+	background: #f4f4f4;
 	background-size: 100%;
 
 	font-family: 'main';
@@ -36,11 +36,11 @@ body {
 	left: 0;
 	bottom: 43px;
 
-	background: #1C1C1C;
+	background: #f4f4f4;
 
-	border: 3px solid #fff;
+	border: 3px solid #e6e6e6;
 
-	color: #868A08;
+	color: #89b5ff;
 
 	text-align: center;
 }
@@ -54,11 +54,11 @@ body {
 	left: 0;
 	bottom: 43px;
 
-	background: #1C1C1C;
+	background: #f4f4f4;
 
-	border: 3px solid #fff;
+	border: 3px solid #e6e6e6;
 
-	color: #868A08;
+	color: #89b5ff;
 
 	text-align: center;
 
@@ -76,7 +76,7 @@ body {
 	background: url('1463736011493.jpg') no-repeat;
 	background-size: 100%;
 
-	border: 3px solid #fff;
+	border: 3px solid #e6e6e6;
 }
 
 #rightwo {
@@ -90,7 +90,7 @@ body {
 	background: url('hotaru.png') no-repeat;
 	background-size: 100%;
 
-	border: 3px solid #fff;
+	border: 3px solid #e6e6e6;
 
 	display: none;
 }
@@ -104,11 +104,11 @@ body {
 	left: 0;
 	bottom: 0px;
 
-	background: #1C1C1C;
+	background: #f4f4f4;
 
-	border: 3px solid #fff;
+	border: 3px solid #e6e6e6;
 
-	color: #868A08;
+	color: #89b5ff;
 
 	text-align: center;
 
@@ -124,11 +124,11 @@ body {
 	left: 0;
 	top: 0px;
 
-	background: #1C1C1C;
+	background: #f4f4f4;
 
-	border: 3px solid #fff;
+	border: 3px solid #e6e6e6;
 
-	color: #868A08;
+	color: #89b5ff;
 
 	text-align: center;
 }
@@ -139,7 +139,7 @@ h1 {
 }
 
 a {
-	color: #868A08;
+	color: #89b5ff;
 	text-decoration: none;
 }
 
